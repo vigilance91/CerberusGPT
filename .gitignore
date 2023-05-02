@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+npm-debug.log
+composer.json
+build.bat
+hash.bat
+sign.bat
+Doxyfile
+/bower_components
+/node_modules
+/_tests
+/_output
+/secrets
+SETUP.md
